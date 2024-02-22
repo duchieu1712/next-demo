@@ -1,9 +1,7 @@
-"use client"
-
 export default function Page() {
   return (
     <div>
-      This is dashboard
+      This is about page
     </div>
   );
 }
